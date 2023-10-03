@@ -134,6 +134,7 @@ OFFICIAL_MODEL_NAMES = [
     "stabilityai/stablelm-base-alpha-7b",
     "stabilityai/stablelm-tuned-alpha-3b",
     "stabilityai/stablelm-tuned-alpha-7b",
+    "BlueSunflower/gpt2-medium-chess",
 ]
 
 # Model Aliases:
